@@ -1,3 +1,5 @@
+# Task
+
 You are tasked to implement a function that calculate if a list of sites are live or not.
 
 A site is live if:
@@ -7,3 +9,11 @@ A site is live if:
 
 Take into consideration the complexity of the algorithm at scale.
 Calculate the Big-O factor for the algorithm you implement.
+
+# Run
+
+You can run the node file with:
+
+```javascript
+node exercise.js
+```
