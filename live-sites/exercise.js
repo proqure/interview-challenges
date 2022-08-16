@@ -12,7 +12,7 @@ const campaigns = [
   {
     id: 3,
     url: "https://site-1.com",
-    status: 1, // stopped
+    status: 1, // live
   },
 ];
 
